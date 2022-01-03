@@ -1,6 +1,6 @@
 ## hi there 👋.
 
-    Hi im Leonard. Im 15 Years old and im from Darmstadt in Germany
+    Hi im Leonard. Im 15 Years old and im from Darmstadt in Germany.
 
 -   I’m currently working on my own Website [leonardblog.com](https://leonardblog.com) _launching soon!_
 -   I’m currently learning **HTML**, **CSS**, **JavaScript** and **GoHugo**
