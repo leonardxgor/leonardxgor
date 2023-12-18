@@ -1,5 +1,5 @@
-## hi there 👋.
-
+hallo :) 
+<!--
     Hi im Leonard. Im 15 Years old and im from Darmstadt in Germany.
 
 -   I’m currently working on my own Website [leonardblog.com](https://leonardblog.com) _launching soon!_
@@ -9,7 +9,7 @@
 -   Pronouns: he/him
 -   Fun fact: I love good Food and Photography!
 
-<!--
+
 ## hallo.
 
 Ich bins Leonard, ein 15 Jahre alter typ aus Darmstadt in Südhessen. Ich habe anfang 2021 die gelegenheit ergriffen an einem HTML Kurs teilzunehmen und diese ergriffen. Dadurch habe ich ein Interesse am Programmieren entdeckt. Aktuell lerne ich noch HTML, CSS und JavaScript und will darauf auch dieses Jahr meinen Fokus
